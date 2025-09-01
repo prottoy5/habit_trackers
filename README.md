@@ -2,7 +2,7 @@
 This is a cross-platform Habit Tracker application built with Flutter. This Flutter app (Android, iOS, Web, Windows, macOS, Linux) to create, track, and manage daily habits, visualize progress, and stay motivated with quotes. Firebase for auth & sync. SharedPreferences for local preferences (theme + session).
 
 ## Project Demo
-Click the link to watch a short demo video of the Habit Trackers app - 
+Click the link to watch a short demo video of the Habit Trackers app - https://drive.google.com/file/d/1rOt0s6R8epPDXX1dVCSzQM-8qTbbQ0So/view?usp=sharing
 
 ## Features
 **Login Screen**
