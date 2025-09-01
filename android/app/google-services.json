@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "316630727639",
+    "project_id": "habit-tracker-4a123",
+    "storage_bucket": "habit-tracker-4a123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316630727639:android:9f738b7d2e78089a10a992",
+        "android_client_info": {
+          "package_name": "com.prottoy.habitzen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu6y4LLfYTdkOk5vzMYY9gGXOK5-pr63U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
